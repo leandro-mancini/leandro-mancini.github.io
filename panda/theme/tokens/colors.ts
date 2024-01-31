@@ -5,7 +5,7 @@ export const defineColorTokens = () => {
         current: { value: 'currentColor' },
         black: {
             DEFAULT: { value: '#000000' },
-            a1: { value: 'rgba(0, 0, 0, 0.05)' },
+            a1: { value: '#333333' },
             a2: { value: 'rgba(0, 0, 0, 0.1)' },
             a3: { value: 'rgba(0, 0, 0, 0.15)' },
             a4: { value: 'rgba(0, 0, 0, 0.2)' },
